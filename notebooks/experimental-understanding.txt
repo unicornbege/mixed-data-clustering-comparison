@@ -7,3 +7,9 @@ this dataset contains a mixed-datatype with in numerical and categorical data ty
 
 Viral Social Media Trends:
 this dataset contains a mixed-datatype with in numerical and categorical data type. differences dominant atribute in this dataset is categorical data-type.
+
+# Experiment with k-means and k-modes algorithm
+
+this experiment do clustering in mixed-datatype with basic algorithm, which is this algorithm can only proses clustering in one data-type.
+what i am actually do?
+see characteristic kmeans and kmodes algorithm to do clustering in mixed-data type
