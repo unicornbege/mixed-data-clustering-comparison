@@ -1,0 +1,9 @@
+# Data Understanding
+
+This notebook provides an initial exploration of two datasets used in the mixed-data clustering comparison.
+
+Students Social Media Addiction dataset: 
+this dataset contains a mixed-datatype with in numerical and categorical data type. differences dominant atribute in this dataset is numerical data-type.
+
+Viral Social Media Trends:
+this dataset contains a mixed-datatype with in numerical and categorical data type. differences dominant atribute in this dataset is categorical data-type.
