@@ -2,7 +2,7 @@
 Clustering Mixed-Type Data Using Partition-Based Algorithms
 
 📌 Overview
-This repository contains the implementation and analysis for my undergraduate thesis research, which focuses on comparing partition-based clustering algorithms on mixed-type datasets (numerical and categorical data).
+This repository contains the implementation and analysis , which focuses on comparing partition-based clustering algorithms on mixed-type datasets (numerical and categorical data).
 The study evaluates the performance of K-Means, K-Modes, and K-Prototypes using several clustering validity indices, with an emphasis on interpretability and suitability for mixed data scenarios.
 
 🎯 Research Objectives
